@@ -1,0 +1,11 @@
+Empty Tree
+ a
+  aa
+   aaa
+  ab
+   aba
+   abb
+  ac
+ b
+  bb
+ c
